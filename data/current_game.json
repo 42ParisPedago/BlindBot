@@ -1,26 +1,14 @@
 {
-  "name": "test3",
+  "name": "parisBlind",
   "rounds": [
     {
+      "artist": "eminem",
+      "title": "lose yourself"
+    },
+    {
       "artist": "mj",
-      "title": "miao"
-    },
-    {
-      "artist": "miao",
       "title": "mj"
-    },
-    {
-      "artist": "test",
-      "title": "test1"
-    },
-    {
-      "artist": "trouve",
-      "title": "moi"
-    },
-    {
-      "artist": "kiss",
-      "title": "punk"
     }
   ],
-  "current_round_index": 5
+  "current_round_index": 2
 }
